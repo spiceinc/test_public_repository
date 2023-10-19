@@ -1,0 +1,2 @@
+# test_public_repository
+パブリック時の見え方テスト
